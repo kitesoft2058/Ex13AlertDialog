@@ -19,6 +19,11 @@ AlertDialog 객체 생성 및 보이기와 여러종류의 AlertDialog 알아보
   <img src="device-2019-12-02-161103.png" width="19%"/>
   <img src="device-2019-12-02-161155.png" width="19%"/>
   <img src="device-2019-12-02-161216.png" width="19%"/>
+  <img src="device-2019-12-02-161259.png" width="19%"/>
+  <img src="device-2019-12-02-161336.png" width="19%"/>
+  <img src="device-2019-12-02-161408.png" width="19%"/>
+  <img src="device-2019-12-02-161511.png" width="19%"/>
+  <img src="device-2019-12-02-161529.png" width="19%"/>
 </div>
 
 # 실행모습 GIF
