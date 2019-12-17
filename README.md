@@ -14,7 +14,7 @@ AlertDialog 객체 생성 및 보이기와 여러종류의 AlertDialog 알아보
 
 # 실행모습
 <div>
-  <h4>[0. 첫화면] | [1. 단순 string] | [2. 리스트형식]</h4>  
+  <h4>여러모양의 AlertDialog</h4>  
   <img src="device-2019-12-02-161028.png" width="19%"/>
   <img src="device-2019-12-02-161103.png" width="19%"/>
   <img src="device-2019-12-02-161155.png" width="19%"/>
